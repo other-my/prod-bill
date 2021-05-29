@@ -1,0 +1,27 @@
+.DS_Store
+node_modules/
+platforms/
+dist/
+logs/
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Editor directories and files
+.idea
+.vscode
+.gitattributes
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.gitattributes
+
+sys.zip
+dist.zip
+README.md
+
+/sys/
+/logs/

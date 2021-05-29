@@ -1,0 +1,20 @@
+/*element-plus 样式调整*/
+.my-el-input {
+    width: 90%;
+    margin: 0 5%;
+    height: 27px !important;
+    line-height: 27px !important;
+}
+.el-input__inner {
+    height: 27px !important;
+    line-height: 27px !important;
+}
+.el-select {
+    width: 90%;
+    margin: 0 5%;
+    height: 27px !important;
+    line-height: 27px !important;
+}
+.el-input__prefix, .el-input__suffix {
+    top: 6px !important
+}
